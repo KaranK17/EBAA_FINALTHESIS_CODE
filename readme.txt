@@ -12,4 +12,4 @@ The training dataset is proprietary, compiled from floor CCTV footage of 1,000 u
 Code Description
 The codebase includes implementations for real-time video processing and human detection. It features video capture, YOLO-based person detection, head pose estimation, and engagement metrics calculation based on the orientation and duration of a person's gaze toward the advertisement. The design is tailored to adapt to different datasets while maintaining precision in detecting and assessing human engagement.
 
-This README is designed to provide a clear understanding of the project's scope and the implications for advertising strategy in both traditional and modern advertising conte
+This README is designed to provide a clear understanding of the project's scope and the implications for advertising strategy in both traditional and modern advertising contexts.
